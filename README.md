@@ -8,7 +8,8 @@ Install the required dependencies:
 
 ### `npm install`
 
-Run the app in the production optimized mode at [http://localhost:3000](http://localhost:3000):
+Navigate to the folder by executing `cd netflix`. To run the app in the production optimized mode at [http://localhost:3000] (http://localhost:3000), execute below command:
+
 ### `npm run start`
 
 (Use `npm run start:server-only` and `npm run client-only` for development with hot reloading in your local)
